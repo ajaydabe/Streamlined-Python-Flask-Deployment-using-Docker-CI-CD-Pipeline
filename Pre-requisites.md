@@ -70,3 +70,6 @@
 
 ### Setup GitHub Webhook
 
+![image](https://github.com/ajaydabe/Streamlined-Python-Flask-Deployment-using-Docker-CI-CD-Pipeline/assets/160045230/52cfa422-f2e3-4e6f-97ae-102581bdb4bd)
+
+## Here we completed our pre-requisites.
