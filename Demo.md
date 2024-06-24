@@ -16,3 +16,9 @@
 
 
 #### Let's make a commit from our instance 1 and push it to the GitHub repository.
+
+
+#### As you can see, pushed changes appeared on GitHub repo.
+
+
+#### This commit triggered the Jenkins pipeline and our job is building.
