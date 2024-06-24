@@ -27,7 +27,7 @@ pipeline {
         stage ("Run container") {
             steps {
                 echo "Run docker image container"
-                sh "docker run -itd -p 5000:80 ajaydabe/pythonpro"
+                sh "docker run -itd -p 5000:5000 ajaydabe/pythonpro"
             }
         }
     }
