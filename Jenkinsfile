@@ -6,7 +6,7 @@ pipeline {
         stage ("Code Cloning") {
             steps {
                 echo "We are cloning the code from GitHub"
-                git url:"https://github.com/ajaydabe/24-June-2024.git", branch: "main"
+                git url:"https://github.com/ajaydabe/Streamlined-Python-Flask-Deployment-using-Docker-CI-CD-Pipeline.git", branch: "main"
             }
         }
         stage ("Build Image") {
