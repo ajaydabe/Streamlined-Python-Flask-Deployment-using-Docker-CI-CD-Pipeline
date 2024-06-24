@@ -10,12 +10,14 @@
 
   Use below commands to install
 
-  **Git** (if not present, mostly it's already installed):
+  **Git** (mostly it's already installed, if not present):
 
       sudo apt install git-all                   # skip this if present
       git --version                              # to check version
       git init                                   # to initialize the git repo
-                      OR
+      
+      # OR Directly clone the repo.
+      
       git clone <repository-url>                 # to clone remote repo to local
 
   **Jenkins:**
@@ -34,10 +36,9 @@
       sudo systemctl start jenkins
       sudo systemctl status jenkins
 
-  Setup Jenkins by installing reuired plugins
-
   ![image](https://github.com/ajaydabe/Streamlined-Python-Flask-Deployment-using-Docker-CI-CD-Pipeline/assets/160045230/d22b0582-b825-4707-b206-a3258411d48c)
 
+  Setup Jenkins by installing reuired plugins, creating user credentials.
 
   **Instance 2 will have Java and Docker**
 
