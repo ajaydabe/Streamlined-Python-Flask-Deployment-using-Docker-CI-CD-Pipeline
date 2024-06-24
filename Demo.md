@@ -14,3 +14,5 @@
 
 ![image](https://github.com/ajaydabe/Streamlined-Python-Flask-Deployment-using-Docker-CI-CD-Pipeline/assets/160045230/a4342e4b-3771-49c8-83fd-b0b45ab8109d)
 
+
+#### Let's make a commit from our instance 1 and push it to the GitHub repository.
