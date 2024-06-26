@@ -73,4 +73,10 @@
 
 ![image](https://github.com/ajaydabe/Streamlined-Python-Flask-Deployment-using-Docker-CI-CD-Pipeline/assets/160045230/52cfa422-f2e3-4e6f-97ae-102581bdb4bd)
 
+### To run a python application, we will need some libraries which are given below. I have mentioned that in requirements.txt file.
+
+   *Flask==2.0.1: Flask is a popular Python web application framework used for building web apps.*
+ 
+   *Werkzeug==2.0.1: Werkzeug is a WSGI (Web Server Gateway Interface) utility library that Flask depends on internally.*
+
 ## Here we completed our pre-requisites.
